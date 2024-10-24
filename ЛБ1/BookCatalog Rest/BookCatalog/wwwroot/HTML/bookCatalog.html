@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Details</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4 text-center text-primary">Book catalog</h1>
+        <hr class="mb-4" />
+        <div class="row justify-content-center">
+            <div class="col-md-10 col-lg-8">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>Author</th>
+                            <th>Year</th>
+                            <th>Genre</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody class="book-table-body"></tbody>
+                </table>
+                <hr />
+                <div class="d-flex justify-content-center mb-5">
+                    <a href="createBook.html" class="btn btn-primary">
+                        Create
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        window.addEventListener("load", (event) => {
+            async function getData() {
+                const url = "https://localhost:7058/";
+                try {
+                    const response = await fetch(url);
+                    if (!response.ok) {
+                        throw new Error(`Response status: ${response.status}`);
+                    }
+
+                    const json = await response.json();
+                    return json;
+                } catch (error) {
+                    console.error(error.message);
+                }
+            }
+
+            async function showData() {
+                let data = await getData();
+
+                data.forEach((item) => {
+                    const row = document.createElement("tr");
+
+                    const title = document.createElement("td");
+                    const titleLink = document.createElement("a");
+                    titleLink.innerText = item.title;
+                    titleLink.href = `./book.html?book=${item.id}`;
+                    title.appendChild(titleLink);
+
+                    const description = document.createElement("td");
+                    description.innerText = item.description;
+
+                    const author = document.createElement("td");
+                    author.innerText = item.author;
+
+                    const year = document.createElement("td");
+                    year.innerText = item.year;
+
+                    const genre = document.createElement("td");
+                    genre.innerText = item.genre;
+
+                    const price = document.createElement("td");
+                    price.innerText = item.price;
+
+                    row.appendChild(title);
+                    row.appendChild(description);
+                    row.appendChild(author);
+                    row.appendChild(year);
+                    row.appendChild(genre);
+                    row.appendChild(price);
+
+                    document.querySelector(".book-table-body").appendChild(row);
+                })
+            }
+            showData();
+        });
+    </script>
+</body>
+</html>
