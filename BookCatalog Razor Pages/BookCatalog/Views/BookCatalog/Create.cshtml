@@ -1,0 +1,63 @@
+﻿@model BookCatalog.Models.Book
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="mb-4 text-center">Edit Book Details</h1>
+<hr class="mb-4" />
+<div class="row justify-content-center">
+    <div class="col-md-8 col-lg-6">
+        <form asp-action="CreateBook" method="post" class="needs-validation" novalidate>
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Title" class="form-control" placeholder="Enter Book Title" />
+                <label asp-for="Title">Title</label>
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Author" class="form-control" placeholder="Enter Author Name" />
+                <label asp-for="Author">Author</label>
+                <span asp-validation-for="Author" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="PublicationYear" class="form-control" placeholder="Enter Publication Year" />
+                <label asp-for="PublicationYear">Publication Year</label>
+                <span asp-validation-for="PublicationYear" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Genre" class="form-control" placeholder="Enter Genre" />
+                <label asp-for="Genre">Genre</label>
+                <span asp-validation-for="Genre" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Price" class="form-control" placeholder="Enter Price" />
+                <label asp-for="Price">Price</label>
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <textarea asp-for="Description" class="form-control" placeholder="Enter Book Description" style="height: 150px; resize: none;"></textarea>
+                <label asp-for="Description">Description</label>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="d-flex justify-content-between">
+                <input type="submit" value="Save Changes" class="btn btn-success btn-lg" />
+                <a asp-action="GetAllBooks" class="btn btn-secondary btn-lg">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

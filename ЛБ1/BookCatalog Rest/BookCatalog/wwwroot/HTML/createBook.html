@@ -104,7 +104,7 @@
             });
 
             async function saveData(data) {
-                const url = `https://localhost:7058/BookCatalog/CreateBook`;
+                const url = `http://localhost:5192/BookCatalog/CreateBook`;
                 try {
                     const response = await fetch(url, {
                         method: 'POST',

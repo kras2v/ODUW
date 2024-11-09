@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dn3H4Qepm1g=",
+  "dgSpecHash": "1s7A6FC7rD8=",
   "success": true,
-  "projectFilePath": "L:\\NURE\\WEB\\LB1\\Client_Server\\BookCatalog - Copy\\BookCatalog\\BookCatalog.csproj",
+  "projectFilePath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ1\\BookCatalog Rest\\BookCatalog\\BookCatalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Valeriia\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Valeriia\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

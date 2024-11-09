@@ -88,10 +88,11 @@ public class BookCatalogController : Controller
         var book = books.FirstOrDefault(book => book.Id == bookToUpdate.id);
         if (book == null)
             return BadRequest($"Cannot find book with id {bookToUpdate.id}");
-        
+
         book.Title = bookToUpdate.title;
         book.Author = bookToUpdate.author;
         book.Genre = bookToUpdate.genre;
+        book.Description = bookToUpdate.description;
         if (bookToUpdate.year < 0 || bookToUpdate.year > DateTime.Today.Year)
             return BadRequest($"Wrong values");
         book.Year = bookToUpdate.year;

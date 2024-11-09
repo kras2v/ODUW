@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\BookCatalog.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\BookCatalog.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\BookCatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\BookCatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\wwwroot\\HTML\\createBook.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\wwwroot\\HTML\\createBook.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\Controllers\\BookCatalogController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\Controllers\\BookCatalogController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\wwwroot\\HTML\\bookCatalog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookCatalog\\wwwroot\\HTML\\bookCatalog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookCatalog\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookCatalog\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T20:18:25.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookCatalog.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\BookCatalog.csproj.user",
+              "RelativeDocumentMoniker": "BookCatalog\\BookCatalog.csproj.user",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\BookCatalog.csproj.user",
+              "RelativeToolTip": "BookCatalog\\BookCatalog.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-24T20:17:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookCatalog\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\appsettings.Development.json",
+              "RelativeToolTip": "BookCatalog\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T20:17:44.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "BookCatalog\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "BookCatalog\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-10-24T20:17:41.378Z",
+              "EditorCaption": " -  [English (United States)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\appsettings.json",
+              "RelativeDocumentMoniker": "BookCatalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\appsettings.json",
+              "RelativeToolTip": "BookCatalog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T20:17:39.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "BookCatalog\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\Program.cs",
+              "RelativeToolTip": "BookCatalog\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:54:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookCatalog.csproj",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\BookCatalog.csproj",
+              "RelativeDocumentMoniker": "BookCatalog\\BookCatalog.csproj",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\BookCatalog.csproj",
+              "RelativeToolTip": "BookCatalog\\BookCatalog.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T20:17:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookCatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\Controllers\\BookCatalogController.cs",
+              "RelativeDocumentMoniker": "BookCatalog\\Controllers\\BookCatalogController.cs",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\Controllers\\BookCatalogController.cs",
+              "RelativeToolTip": "BookCatalog\\Controllers\\BookCatalogController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:16:07.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bookCatalog.html",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\wwwroot\\HTML\\bookCatalog.html",
+              "RelativeDocumentMoniker": "BookCatalog\\wwwroot\\HTML\\bookCatalog.html",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\wwwroot\\HTML\\bookCatalog.html",
+              "RelativeToolTip": "BookCatalog\\wwwroot\\HTML\\bookCatalog.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-24T20:13:22.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "createBook.html",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\wwwroot\\HTML\\createBook.html",
+              "RelativeDocumentMoniker": "BookCatalog\\wwwroot\\HTML\\createBook.html",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\NURE-main\\\u041E\u0414\u0423W\\\u041B\u04111\\BookCatalog Rest\\BookCatalog\\wwwroot\\HTML\\createBook.html",
+              "RelativeToolTip": "BookCatalog\\wwwroot\\HTML\\createBook.html",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-24T20:13:20.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -5643,11 +5643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\NURE\\WEB\\LB1\\Client_Server\\BookCatalog - Copy\\BookCatalog\\BookCatalog.csproj",
+      "projectUniqueName": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ1\\BookCatalog Rest\\BookCatalog\\BookCatalog.csproj",
       "projectName": "BookCatalog",
-      "projectPath": "L:\\NURE\\WEB\\LB1\\Client_Server\\BookCatalog - Copy\\BookCatalog\\BookCatalog.csproj",
+      "projectPath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ1\\BookCatalog Rest\\BookCatalog\\BookCatalog.csproj",
       "packagesPath": "C:\\Users\\Valeriia\\.nuget\\packages\\",
-      "outputPath": "L:\\NURE\\WEB\\LB1\\Client_Server\\BookCatalog - Copy\\BookCatalog\\obj\\",
+      "outputPath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ1\\BookCatalog Rest\\BookCatalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Valeriia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5710,7 +5710,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

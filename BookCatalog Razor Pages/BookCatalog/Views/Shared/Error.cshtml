@@ -1,0 +1,19 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Error";
+}
+
+<br />
+<br />
+<img src="~/css/icons/299051_ban_sign_icon.png" alt="..." class="img-fluid" style="width: 150px; height: auto;">
+<br />
+<br />
+<br />
+<h1 class="text-danger">An error occurred.</h1>
+<br />
+<br />
+<h3 class="text-danger">@Model</h3>
+<h4 class="text-danger">Maybe try again</h4>
+<br />
+
+<a asp-action="Books" role="button" class="btn btn-warning">Back</a>
