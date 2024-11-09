@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F8/yDT7BrGWcveFjtvecZO8I3fCRqINaqjJFOKr+wPM=",
+  "Source": "gRPC_server",
+  "BasePath": "_content/gRPC_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
