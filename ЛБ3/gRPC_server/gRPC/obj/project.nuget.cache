@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cjVbvo1ErXY=",
+  "dgSpecHash": "1BJWjjDcBYs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC\\gRPC\\gRPC_server.csproj",
+  "projectFilePath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC_server\\gRPC\\gRPC_server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Valeriia\\.nuget\\packages\\google.protobuf\\3.23.1\\google.protobuf.3.23.1.nupkg.sha512",
     "C:\\Users\\Valeriia\\.nuget\\packages\\grpc.aspnetcore\\2.57.0\\grpc.aspnetcore.2.57.0.nupkg.sha512",

@@ -1,15 +1,14 @@
 ﻿using System;
 using System.Threading.Tasks;
 using Grpc.Net.Client;
+using gRPC_server;
 
-class Program
-{
-    static async Task Main(string[] args)
-    {
-        using var channel = GrpcChannel.ForAddress("http://localhost:5000");
-        var client = new Greeter.GreeterClient(channel);
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-        var reply = await client.SayHelloAsync(new HelloRequest { Name = "World" });
-        Console.WriteLine("Отримано відповідь від сервера: " + reply.Message);
-    }
-}
+using var channel = GrpcChannel.ForAddress("http://localhost:5070");
+var client = new Greeter.GreeterClient(channel);
+
+Console.WriteLine("Enter your name:");
+var client_name = Console.ReadLine();
+var reply = await client.SayHelloAsync(new HelloRequest { Name = client_name });
+Console.WriteLine("You've got an answer from server: " + reply.Message);

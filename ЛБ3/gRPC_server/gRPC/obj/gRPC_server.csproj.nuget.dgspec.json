@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC\\gRPC\\gRPC_server.csproj": {}
+    "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC_server\\gRPC\\gRPC_server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC\\gRPC\\gRPC_server.csproj": {
+    "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC_server\\gRPC\\gRPC_server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC\\gRPC\\gRPC_server.csproj",
+        "projectUniqueName": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC_server\\gRPC\\gRPC_server.csproj",
         "projectName": "gRPC_server",
-        "projectPath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC\\gRPC\\gRPC_server.csproj",
+        "projectPath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC_server\\gRPC\\gRPC_server.csproj",
         "packagesPath": "C:\\Users\\Valeriia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC\\gRPC\\obj\\",
+        "outputPath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\ОДУW\\ЛБ3\\gRPC_server\\gRPC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Valeriia\\AppData\\Roaming\\NuGet\\NuGet.Config",
