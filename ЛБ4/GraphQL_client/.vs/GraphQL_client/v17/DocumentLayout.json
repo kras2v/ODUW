@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\4 \u043A\u0443\u0440\u0441_1_\u0441\u0435\u043C\\GraphQL_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C44D0C8-51A1-457B-8A38-5C6BF6739658}|GraphQL_client\\GraphQL_client.csproj|c:\\users\\valeriia\\desktop\\\u043D\u0443\u0440\u0435\\4 \u043A\u0443\u0440\u0441_1_\u0441\u0435\u043C\\graphql_client\\graphql_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C44D0C8-51A1-457B-8A38-5C6BF6739658}|GraphQL_client\\GraphQL_client.csproj|solutionrelative:graphql_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\4 \u043A\u0443\u0440\u0441_1_\u0441\u0435\u043C\\GraphQL_client\\GraphQL_client\\Program.cs",
+              "RelativeDocumentMoniker": "GraphQL_client\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriia\\Desktop\\\u043D\u0443\u0440\u0435\\4 \u043A\u0443\u0440\u0441_1_\u0441\u0435\u043C\\GraphQL_client\\GraphQL_client\\Program.cs",
+              "RelativeToolTip": "GraphQL_client\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:27:14.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

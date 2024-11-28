@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltYDrJbhmbw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valeriia\\Desktop\\нуре\\4 курс_1_сем\\GraphQL_client\\GraphQL_client\\GraphQL_client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valeriia\\.nuget\\packages\\graphql.client\\6.1.0\\graphql.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Valeriia\\.nuget\\packages\\graphql.client.abstractions\\6.1.0\\graphql.client.abstractions.6.1.0.nupkg.sha512",
+    "C:\\Users\\Valeriia\\.nuget\\packages\\graphql.client.abstractions.websocket\\6.1.0\\graphql.client.abstractions.websocket.6.1.0.nupkg.sha512",
+    "C:\\Users\\Valeriia\\.nuget\\packages\\graphql.client.serializer.systemtextjson\\6.1.0\\graphql.client.serializer.systemtextjson.6.1.0.nupkg.sha512",
+    "C:\\Users\\Valeriia\\.nuget\\packages\\graphql.primitives\\6.1.0\\graphql.primitives.6.1.0.nupkg.sha512",
+    "C:\\Users\\Valeriia\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
